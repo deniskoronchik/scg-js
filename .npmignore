@@ -1,11 +1,11 @@
 node_modules/
+src/
 test/
 build/*.bundle.js
 
 .gitignore
 tsconfig.json
-postcss.config.js
-webpack.config.js
+webpack.*
 
 package-lock.json
 yarn.*
